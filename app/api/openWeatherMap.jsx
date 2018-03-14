@@ -1,6 +1,7 @@
 var axios = require ('axios');
 
-const OPEN_WEATHER_MAP_URL = 'http://api.openweathermap.org/data/2.5/weather?&units=metric&appid=f9c7ec3285620cd8c0d881bf79060b7f';
+const API_KEY = 'f9c7ec3285620cd8c0d881bf79060b7f';
+const OPEN_WEATHER_MAP_URL = `http://api.openweathermap.org/data/2.5/weather?&units=metric&appid=${API_KEY}`;
 //f9c7ec3285620cd8c0d881bf79060b7f
 
 module.exports = {
