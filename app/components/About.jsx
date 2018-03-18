@@ -13,13 +13,16 @@ var About = (props) => {
       <h1 className="text-center page-title">About Page</h1>
       <p>This is a weather application build on ReactJS. </p>
 
-      <p>Here are some the toolds I used:</p>
+      <p>Here are some of the tools I used:</p>
       <ul>
         <li>
-          <a href="https://facebook.github.io/react"> React</a> - This was the Javascript framework used.
+          <a href="https://facebook.github.io/react">React</a> - This was the Javascript framework used.
         </li>
         <li>
           <a href="http://openweathermap.org">Open Weather Map</a> - I used Open Weather Map to search for weather data by city name.
+        </li>
+        <li>
+          <a href="https://foundation.zurb.com/">Foundation</a> - This was the responsive Front-End framework used.
         </li>
       </ul>
       <p>You can clone the github repo here: <a href="https://github.com/vamisola/React-Weather-Map.git">https://github.com/vamisola/React-Weather-Map.git</a></p>
