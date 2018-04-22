@@ -1,4 +1,4 @@
-# React-Weather
+# React-Weather-Map
 
 This is a weather application build on ReactJS.
 
@@ -13,7 +13,6 @@ You can clone the github repo here: https://github.com/vamisola/React-Weather-Ma
 
 ```
 > git clone https://github.com/vamisola/React-Weather-Map.git
-> cd ReduxSimpleStarter
+> cd React-Weather-Map
 > npm install
-> npm start
 ```
